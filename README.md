@@ -1,7 +1,6 @@
 # Starter Web Projectu
-bleblablablabla
-I need to modify one last time
 
+Plus de changements
 ## Introduction
 
 This section's only goal is to demonstrate a point of comparison between 2 states of commit
