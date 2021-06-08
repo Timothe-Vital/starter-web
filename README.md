@@ -15,7 +15,7 @@ Sample website with plenty of files for demos
 
 ##Deployment
 
-I don't know what deployment as regard of a readme fil
+This sentence wasn't correct
 
 ##How to contribute
 
