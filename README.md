@@ -1,4 +1,6 @@
 # Starter Web Projectu
+bleblablablabla
+I need to modify one last time
 
 ## Introduction
 
@@ -12,3 +14,5 @@ Yes the purpose yes
 Sample website with plenty of files for demos
 
 ##Deployment
+
+I don't know what deployment as regard of a readme file.
