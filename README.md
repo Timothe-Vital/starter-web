@@ -17,6 +17,10 @@ Sample website with plenty of files for demos
 
 I don't know what deployment as regard of a readme fil
 
+##How to contribute
+
+please fork this repository and then issue pull requests for review
+
 ## Copyright
 
 This document and content is Copy righted under the 2021 Copyright Policy.
