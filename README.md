@@ -1,7 +1,7 @@
 # Starter Web Projectu
 
-j'ajoute du texte pour un exemple de "rebasing"
-une autre ligne pour l'exemple
+oui
+
 ## Introduction
 
 This section's only goal is to demonstrate a point of comparison between 2 states of commit
